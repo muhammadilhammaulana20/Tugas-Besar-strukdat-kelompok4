@@ -35,10 +35,14 @@ Aplikasi memiliki dua peran pengguna, yaitu **Admin** dan **User**. Admin bertug
 
 ### Struktur Data yang Digunakan
 
-* **Doubly Linked List**: penyimpanan lagu di library dan playlist
-* **Queue**: antrian lagu
-* **Stack**: riwayat lagu yang diputar
-* **Set**: penyimpanan lagu favorit
+### Struktur Data yang Digunakan
+
+| Struktur Data        | Fungsi dalam Aplikasi |
+|----------------------|-----------------------|
+| **Doubly Linked List** | Menyimpan daftar lagu di library dan dalam playlist |
+| **Queue**              | Mengatur antrian lagu yang akan diputar |
+| **Stack**              | Menyimpan riwayat lagu yang sudah diputar |
+| **Set**                | Menyimpan daftar lagu favorit tanpa duplikasi |
 
 ---
 
